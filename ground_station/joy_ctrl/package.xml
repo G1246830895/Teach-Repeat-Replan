@@ -51,7 +51,8 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>tf</run_depend>
   <run_depend>sensor_msgs</run_depend>
-
+  <run_depend>uav_utils</run_depend>
+  <build_depend>uav_utils</build_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
